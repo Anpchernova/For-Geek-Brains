@@ -34,5 +34,3 @@
 1. git branch - список веток
 2. git branch name - создание новой ветки
 3. git checkout name - переключение на другую ветку
-5. git branch -d name - удалить имя ветки
-6. git log --graph - список коммитов вывести

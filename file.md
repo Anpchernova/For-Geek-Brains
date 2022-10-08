@@ -37,3 +37,4 @@
 4. git merge name - добавить ветку в ветку мастер
 5. git branch -d name - удалить ветку
 6. git log --graph - список коммитов
+ПРИВЕТ

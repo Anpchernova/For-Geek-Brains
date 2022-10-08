@@ -34,3 +34,4 @@
 1. git branch - название веток
 2. git branch name - создать новую ветку
 3. git checkout name - переключиться на ветку
+4. git merge name - добавить ветку в ветку мастер
